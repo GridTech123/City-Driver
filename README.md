@@ -3,4 +3,4 @@ City Driver is the current game that GridTech is working on current game that Gr
 
 OBJECTIVES ARE HERE!!! we are happy to announce that you can now complete objectives and get money!!!
 
-WARNING: this game is in the beta stage of its demo there is a lot to be added!!
+WARNING: this game is a demo there is a lot to be added!!
